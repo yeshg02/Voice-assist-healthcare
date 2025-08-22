@@ -1,0 +1,8 @@
+.env
+fresh-clean-repo/
+__pycache__/
+*.pyc
+__pycache__/
+*.pyc
+.env
+secret.env
